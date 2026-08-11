@@ -1,6 +1,6 @@
 # ONDE AI R&D
 ## Laboratoire de recherche appliquée et développement · travail humain–IA
-*Présentation (août 2026) Julien-Pierre NOTO. Statut : brouillon.*
+*Présentation (août 2026) Julien-Pierre NOTO. Statut : Public Draft.*
 
 ---
 
@@ -68,11 +68,11 @@ Le problème est général ; il s'instruit par objets d'étude : chacun attaque 
 
 ### N° 1 · LIVING REFERENCE (axe autorité)
 
-Cinq hypothèses sur la tenue d'un référentiel de projet : **H1 glissement** (fenêtre + invariants + rappel, coût constant), **H2 héritage par facettes** (validation scopée, pas de précédent nommé trouvé), **H3 tamis de trace** (une trace n'est émise que si elle déplace un axe), **H4 transversalité** (du chat nu à l'AIOS), **H5 gate d'interface**. Un profil éprouvé : SLIDING CANON, rang preuve de concept en usage réel (N=1, non mesuré). Une batterie de tests de dérive D1–D5, appliquée au corpus lui-même. Lineage public (StreamingLLM, MemGPT, ADR, modèle bitemporel, Ranganathan) : la contribution revendiquée est la recontextualisation et l'assemblage, pas les primitives. État : **dépôt initial le 2026-07-21** (brouillon public, Public Draft ; le CHANGELOG du corpus fait foi pour les versions) ; stade preuve de concept. Domicile canonique : <https://github.com/JP-Noto/LIVING-REFERENCE> (dépôt public depuis le 2026-08-06). Le corpus vit dans son propre dépôt ; celui-ci pointe, il ne duplique pas.
+Cinq hypothèses sur la tenue d'un référentiel de projet : **H1 glissement** (fenêtre + invariants + rappel, coût constant), **H2 héritage par facettes** (validation scopée, pas de précédent nommé trouvé), **H3 tamis de trace** (une trace n'est émise que si elle déplace un axe), **H4 transversalité** (du chat nu à l'AIOS), **H5 gate d'interface**. Un profil éprouvé : SLIDING CANON, rang preuve de concept en usage réel (N=1, non mesuré). Une batterie de tests de dérive D1–D5, appliquée au corpus lui-même. Lineage public (StreamingLLM, MemGPT, ADR, modèle bitemporel, Ranganathan) : la contribution revendiquée est la recontextualisation et l'assemblage, pas les primitives. État : **dépôt initial le 2026-07-21** (Public Draft ; le CHANGELOG du corpus fait foi pour les versions) ; stade preuve de concept. Domicile canonique : <https://github.com/JP-Noto/LIVING-REFERENCE> (dépôt public depuis le 2026-08-06). Le corpus vit dans son propre dépôt ; celui-ci pointe, il ne duplique pas.
 
 ### N° 2 · MYSTANCE (axe humain)
 
-La couche humaine des systèmes d'IA : **régler la relation plutôt que la dominer**. Le réglage de la relation humain–IA prolifère sur le marché, mais sans norme : fragmenté, sans contrat publié, révocable sans préavis, et sans invariant. MYSTANCE propose de le normer : des paramètres explicites, visibles, tenus par l'utilisateur, garantis par des règles écrites et réfutables. Paramètre cardinal : le **niveau d'assistance**, quatre niveaux nommés à contrat comportemental (MÉDIATION · APPUI · COLLABORATION · GÉNÉRATION), échelle close aux deux bouts (jamais zéro médiation, jamais de production 100 % IA). Invariant proposé : *le niveau module combien l'IA propose, jamais qui décide.* Cinq mécanismes : niveau d'assistance, posture (quatre registres canoniques), motif « 3 + libre », templates verrouillés (clause contenant/contenu : le contenant est protégé, le contenu appartient à l'utilisateur), nommage du compagnon. État : **dépôt initial le 2026-08-02** (brouillon public, Public Draft ; le CHANGELOG du corpus fait foi). Rangs de preuve tenus dans sa SPEC : « précédent d'usage » ou « spécifié » selon le mécanisme : rien de mesuré ni répliqué à ce jour, dit tel quel. Domicile canonique : <https://github.com/JP-Noto/MYSTANCE> (dépôt public depuis le 2026-08-11). **À jour au 2026-08-11** : la carte des couches accueille WORKING REFERENCE, le hors-domaine multi-humains est
+La couche humaine des systèmes d'IA : **régler la relation plutôt que la dominer**. Le réglage de la relation humain–IA prolifère sur le marché, mais sans norme : fragmenté, sans contrat publié, révocable sans préavis, et sans invariant. MYSTANCE propose de le normer : des paramètres explicites, visibles, tenus par l'utilisateur, garantis par des règles écrites et réfutables. Paramètre cardinal : le **niveau d'assistance**, quatre niveaux nommés à contrat comportemental (MÉDIATION · APPUI · COLLABORATION · GÉNÉRATION), échelle close aux deux bouts (jamais zéro médiation, jamais de production 100 % IA). Invariant proposé : *le niveau module combien l'IA propose, jamais qui décide.* Cinq mécanismes : niveau d'assistance, posture (quatre registres canoniques), motif « 3 + libre », templates verrouillés (clause contenant/contenu : le contenant est protégé, le contenu appartient à l'utilisateur), nommage du compagnon. État : **dépôt initial le 2026-08-02** (Public Draft ; le CHANGELOG du corpus fait foi). Rangs de preuve tenus dans sa SPEC : « précédent d'usage » ou « spécifié » selon le mécanisme : rien de mesuré ni répliqué à ce jour, dit tel quel. Domicile canonique : <https://github.com/JP-Noto/MYSTANCE> (dépôt public depuis le 2026-08-11). **À jour au 2026-08-11** : la carte des couches accueille WORKING REFERENCE, le hors-domaine multi-humains est
 déclaré, l'échelle des niveaux porte son schéma.
 
 ### N° 3 · WORKING REFERENCE (axe exécution)
@@ -86,14 +86,14 @@ jamais une seconde couche de référence. Propriété mesurable centrale : le vo
 croît pas avec la taille du corpus. C'est la généralisation exécutable de LIVING REFERENCE : l'aîné,
 testé contre la SPEC du cadet, est une instance partielle : son glissement passe les familles
 constante/instanciation/service, mais il ne scelle pas ses décisions de service ; l'écart est
-exactement l'apport. État : **dépôt initial le 2026-08-11** (brouillon public, Public Draft ; le CHANGELOG
+exactement l'apport. État : **dépôt initial le 2026-08-11** (Public Draft ; le CHANGELOG
 du corpus fait foi pour les versions). Rang : **hypothèse**, H(T) au registre du laboratoire, chaque revendication du
 corpus porte son rang. Domicile canonique : <https://github.com/JP-Noto/WORKING-REFERENCE> (dépôt public depuis le 2026-08-11).
 
 ## Existant
 
-- Corpus LIVING REFERENCE (CC BY-NC-SA) : **dépôt initial fait le 2026-07-21** (brouillon public), **passage en dépôt public le 2026-08-06** ; le CHANGELOG du corpus fait foi.
-- Corpus MYSTANCE (CC BY-NC-SA + clause contenant/contenu) : **dépôt initial fait le 2026-08-02** (dépôt privé, brouillon public) : SPEC, whitepaper, lineage vérifié sur textes originaux, journal d'antériorité à deux entrées datées (balayage savant + balayage produits 2023–2026), neuf fiches, premier template verrouillé.
+- Corpus LIVING REFERENCE (CC BY-NC-SA) : **dépôt initial fait le 2026-07-21** (Public Draft), **passage en dépôt public le 2026-08-06** ; le CHANGELOG du corpus fait foi.
+- Corpus MYSTANCE (CC BY-NC-SA + clause contenant/contenu) : **dépôt initial fait le 2026-08-02** (dépôt privé, Public Draft) : SPEC, whitepaper, lineage vérifié sur textes originaux, journal d'antériorité à deux entrées datées (balayage savant + balayage produits 2023–2026), neuf fiches, premier template verrouillé.
 - Trois concepts du socle sont intégrés au cadre d'un AIOS tiers en production : la double valeur (mécanisme central de l'architecture), la validation tracée et le cycle de statuts. Crédit ≠ preuve : l'adoption date et crédibilise, seules les gates font monter. *(Crédit externe et lien : à poser avant toute publication qui les mobilise.)*
 - Accès à un AIOS de production : batteries de test en environnement AIOS réel.
 - Guichet des problématiques : dépôt standardisé + triage + validation humaine (au rang hypothèse : il passe ses propres gates).

@@ -61,9 +61,9 @@ registre, études, protocoles, dépôts : a un nom : **[ACTA](methode/ACTA.md)**
 
 Chaque objet d'étude vit dans son propre dépôt : ce dépôt-ci pointe, il ne duplique pas. **Les quatre dépôts de la famille sont publics** : LIVING REFERENCE depuis le 2026-08-06 ; MYSTANCE, WORKING REFERENCE et ce portail depuis le 2026-08-11 (chaque CHANGELOG fait foi).
 
-**N° 1 — [LIVING REFERENCE](https://github.com/JP-Noto/LIVING-REFERENCE)** (axe autorité) : un système de références vivantes pour le travail assisté par IA : de la proposition à la référence par validation, double valeur, tamis de trace, validation partielle par facettes, glissement, tests de dérive D1–D5. Sept fiches : le socle fonde, les mécanismes construisent, la garde vérifie. **Dépôt initial : 2026-07-21** · statut : brouillon public (Public Draft) · le CHANGELOG du corpus fait foi pour les versions.
+**N° 1 — [LIVING REFERENCE](https://github.com/JP-Noto/LIVING-REFERENCE)** (axe autorité) : un système de références vivantes pour le travail assisté par IA : de la proposition à la référence par validation, double valeur, tamis de trace, validation partielle par facettes, glissement, tests de dérive D1–D5. Sept fiches : le socle fonde, les mécanismes construisent, la garde vérifie. **Dépôt initial : 2026-07-21** · statut : Public Draft · le CHANGELOG du corpus fait foi pour les versions.
 
-**N° 2 — [MYSTANCE](https://github.com/JP-Noto/MYSTANCE)** (axe humain) : la couche humaine des systèmes d'IA : régler la relation plutôt que la dominer. Paramètre cardinal : le niveau d'assistance (quatre niveaux nommés : MÉDIATION · APPUI · COLLABORATION · GÉNÉRATION) ; invariant proposé : *le niveau module combien l'IA propose, jamais qui décide*. Cinq mécanismes : niveau d'assistance, posture, motif « 3 + libre », templates verrouillés, nommage du compagnon. **Dépôt initial : 2026-08-02, à jour au 2026-08-11** (la carte des couches y accueille WORKING REFERENCE) · statut : brouillon public (Public Draft) · rangs de preuve tenus dans sa SPEC (rien de mesuré ni répliqué à ce jour) · le CHANGELOG du corpus fait foi pour les versions.
+**N° 2 — [MYSTANCE](https://github.com/JP-Noto/MYSTANCE)** (axe humain) : la couche humaine des systèmes d'IA : régler la relation plutôt que la dominer. Paramètre cardinal : le niveau d'assistance (quatre niveaux nommés : MÉDIATION · APPUI · COLLABORATION · GÉNÉRATION) ; invariant proposé : *le niveau module combien l'IA propose, jamais qui décide*. Cinq mécanismes : niveau d'assistance, posture, motif « 3 + libre », templates verrouillés, nommage du compagnon. **Dépôt initial : 2026-08-02, à jour au 2026-08-11** (la carte des couches y accueille WORKING REFERENCE) · statut : Public Draft · rangs de preuve tenus dans sa SPEC (rien de mesuré ni répliqué à ce jour) · le CHANGELOG du corpus fait foi pour les versions.
 
 **N° 3 — [WORKING REFERENCE](https://github.com/JP-Noto/WORKING-REFERENCE)** (axe exécution) : la référence qui travaille : un corpus
 n'est pas un document qu'on lit, c'est une **fonction qu'on appelle** : une **constante** (l'invariant
@@ -71,7 +71,7 @@ gagné par gates, ce qui doit survivre à un changement de génération de modè
 l'instanciation **décidée** par la couche de référence selon l'état déclaré du travail, **servie**
 (jamais chargée en bloc) et **scellée** (chaque décision de service traçable). Le média est une
 variable. C'est la généralisation exécutable de LIVING REFERENCE, et la réponse structurelle à l'axe
-durabilité du problème. **Dépôt initial : 2026-08-11** · statut : brouillon public (Public Draft) ·
+durabilité du problème. **Dépôt initial : 2026-08-11** · statut : Public Draft ·
 rang : **hypothèse** (H(T) au registre), dit tel quel · le CHANGELOG du corpus fait foi pour les
 versions. Domicile canonique : <https://github.com/JP-Noto/WORKING-REFERENCE>
 (dépôt public depuis le 2026-08-11).
@@ -101,7 +101,7 @@ WORKING REFERENCE 0.1.6, et le laboratoire lui-même, fond et vitrine).
 
 ## Statut de ce dépôt
 
-Brouillon public (Public Draft) — dépôt public depuis le 2026-08-11, consigné au [CHANGELOG](CHANGELOG.md). Ancrer n'est pas publier : l'antériorité est tenue par les enveloppes e-Soleau, la publication par ce dépôt. Les versions suivent le CHANGELOG.
+Public Draft — dépôt public depuis le 2026-08-11, consigné au [CHANGELOG](CHANGELOG.md). Ancrer n'est pas publier : l'antériorité est tenue par les enveloppes e-Soleau, la publication par ce dépôt. Les versions suivent le CHANGELOG.
 
 ## Licence et citation
 
