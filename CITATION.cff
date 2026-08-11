@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Si vous citez ce travail, merci d'utiliser les métadonnées ci-dessous. / If you cite this work, please use the metadata below."
+title: "ONDE AI R&D — laboratoire de recherche appliquée et développement en travail humain–IA"
+type: dataset
+authors:
+  - family-names: "Noto"
+    given-names: "Julien-Pierre"
+version: 0.3.0
+date-released: "2026-08-11"
+license: CC-BY-NC-SA-4.0
+abstract: >-
+  Présentation du laboratoire ONDE AI R&D : thèse, problème étudié
+  (durabilité, autorité, mesure du travail humain-IA), l'appareil de
+  méthode ACTA (guichet, registre des hypothèses, protocoles à gates),
+  et les trois objets d'étude — LIVING REFERENCE (axe autorité),
+  MYSTANCE (axe humain), WORKING REFERENCE (axe exécution). Antériorité
+  horodatée par enveloppes e-Soleau INPI. Rang des travaux présentés :
+  hypothèses et preuves de concept. Les documents en français font foi.
+keywords:
+  - human-AI collaboration
+  - AI-assisted work
+  - research methodology
+  - falsifiability
+  - practitioner-researcher
+  - living reference

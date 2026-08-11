@@ -1,0 +1,24 @@
+# CHANGELOG · dépôt ONDE
+
+*Format : [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) · versionnage : [SemVer](https://semver.org/lang/fr/). Ce CHANGELOG est la source de vérité des versions de CE dépôt ; chaque corpus a le sien, dans son propre dépôt.*
+
+## [0.3.0] — 2026-08-11
+
+Première version du dépôt canonique de présentation du laboratoire **ONDE AI R&D**.
+
+- **La présentation du laboratoire** : posture, problème (durabilité · autorité · mesure), méthode,
+  périmètre, feuille de route ([PRESENTATION.md](PRESENTATION.md)).
+- **L'appareil de méthode, ACTA** : guichet des problématiques (33 dépôts), registre des hypothèses
+  (révision 16, hypothèses lettrées jusqu'à H(T)), protocoles à gates, dépôts d'antériorité
+  ([methode/ACTA.md](methode/ACTA.md)).
+- **Trois objets d'étude**, chacun dans son propre dépôt : LIVING REFERENCE (axe autorité, public) ·
+  MYSTANCE (axe humain, privé) · WORKING REFERENCE (axe exécution, privé). Quatre
+  couches, aucune redondance.
+- **Antériorité horodatée** : enveloppes e-Soleau INPI DSO2026026503 (21/07/2026) et DSO2026028969
+  (11/08/2026), empreintes SHA-256 aux récépissés.
+- Les vues de `methode/` non resynchronisées portent leur régime d'instantané daté ; la
+  resynchronisation complète est une gate déclarée avant toute mise en public.
+
+*Les versions antérieures à la première publication de ce dépôt sont internes au laboratoire ;
+l'antériorité de leurs états successifs est établie par les enveloppes e-Soleau ci-dessus, pas par ce
+fichier.*
