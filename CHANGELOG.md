@@ -12,8 +12,10 @@ Première version du dépôt canonique de présentation du laboratoire **ONDE AI
   (révision 16, hypothèses lettrées jusqu'à H(T)), protocoles à gates, dépôts d'antériorité
   ([methode/ACTA.md](methode/ACTA.md)).
 - **Trois objets d'étude**, chacun dans son propre dépôt : LIVING REFERENCE (axe autorité, public) ·
-  MYSTANCE (axe humain, privé) · WORKING REFERENCE (axe exécution, privé). Quatre
+  MYSTANCE (axe humain) · WORKING REFERENCE (axe exécution). Quatre
   couches, aucune redondance.
+- **Dépôt public depuis le 2026-08-11**, bascule coordonnée de la famille entière ; les états de
+  sortie sont scellés par l'enveloppe e-Soleau DSO2026029019 (14:12 UTC, avant mise en ligne).
 - **Antériorité horodatée** : enveloppes e-Soleau INPI DSO2026026503 (21/07/2026) et DSO2026028969
   (11/08/2026), empreintes SHA-256 aux récépissés.
 - Les vues de `methode/` non resynchronisées portent leur régime d'instantané daté ; la

@@ -59,7 +59,7 @@ registre, études, protocoles, dépôts : a un nom : **[ACTA](methode/ACTA.md)**
 
 ## Objets d'étude
 
-Chaque objet d'étude vit dans son propre dépôt : ce dépôt-ci pointe, il ne duplique pas. **LIVING REFERENCE est public depuis le 2026-08-06 ; MYSTANCE et WORKING REFERENCE restent privés à ce jour** : leurs liens s'activeront à leur passage en public (décisions distinctes, consignées dans leurs CHANGELOG).
+Chaque objet d'étude vit dans son propre dépôt : ce dépôt-ci pointe, il ne duplique pas. **Les quatre dépôts de la famille sont publics** : LIVING REFERENCE depuis le 2026-08-06 ; MYSTANCE, WORKING REFERENCE et ce portail depuis le 2026-08-11 (chaque CHANGELOG fait foi).
 
 **N° 1 — [LIVING REFERENCE](https://github.com/JP-Noto/LIVING-REFERENCE)** (axe autorité) : un système de références vivantes pour le travail assisté par IA : de la proposition à la référence par validation, double valeur, tamis de trace, validation partielle par facettes, glissement, tests de dérive D1–D5. Sept fiches : le socle fonde, les mécanismes construisent, la garde vérifie. **Dépôt initial : 2026-07-21** · statut : brouillon public (Public Draft) · le CHANGELOG du corpus fait foi pour les versions.
 
@@ -74,7 +74,7 @@ variable. C'est la généralisation exécutable de LIVING REFERENCE, et la répo
 durabilité du problème. **Dépôt initial : 2026-08-11** · statut : brouillon public (Public Draft) ·
 rang : **hypothèse** (H(T) au registre), dit tel quel · le CHANGELOG du corpus fait foi pour les
 versions. Domicile canonique : <https://github.com/JP-Noto/WORKING-REFERENCE>
-(dépôt privé à ce jour).
+(dépôt public depuis le 2026-08-11).
 
 **Les quatre couches** (aucune redondance entre elles) :
 
@@ -101,7 +101,7 @@ WORKING REFERENCE 0.1.6, et le laboratoire lui-même, fond et vitrine).
 
 ## Statut de ce dépôt
 
-Brouillon : dépôt privé. La publication publique est une décision distincte, consignée le jour où elle est prise (ancrer n'est pas publier). Les versions suivent le [CHANGELOG](CHANGELOG.md).
+Brouillon public (Public Draft) — dépôt public depuis le 2026-08-11, consigné au [CHANGELOG](CHANGELOG.md). Ancrer n'est pas publier : l'antériorité est tenue par les enveloppes e-Soleau, la publication par ce dépôt. Les versions suivent le CHANGELOG.
 
 ## Licence et citation
 

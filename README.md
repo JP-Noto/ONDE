@@ -31,8 +31,8 @@ A single practitioner-researcher, N=1, declared. The apparatus holding this meth
 ## Objects of study
 
 - **[LIVING REFERENCE](https://github.com/JP-Noto/LIVING-REFERENCE)** (authority axis) : a system of living references for AI-assisted work. Initial deposit 2026-07-21 · Public Draft · **public repository since 2026-08-06**.
-- **[MYSTANCE](https://github.com/JP-Noto/MYSTANCE)** (human axis) : the human layer of AI systems: tune the relationship rather than dominate it. Four named assistance levels; proposed invariant: *the level modulates how much the AI proposes, never who decides.* Initial deposit 2026-08-02, updated on 2026-08-11 · Public Draft · private repository for now.
-- **[WORKING REFERENCE](https://github.com/JP-Noto/WORKING-REFERENCE)** (execution axis): the reference that works. A corpus is not a document you read but a function you call: a constant earned through gates plus variables, instantiated from the declared state of the work, served (never bulk-loaded) and sealed (every serving decision traceable). Medium is a variable. Rank: hypothesis, stated as such. Initial deposit 2026-08-11 · Public Draft · private repository for now.
+- **[MYSTANCE](https://github.com/JP-Noto/MYSTANCE)** (human axis) : the human layer of AI systems: tune the relationship rather than dominate it. Four named assistance levels; proposed invariant: *the level modulates how much the AI proposes, never who decides.* Initial deposit 2026-08-02, updated on 2026-08-11 · Public Draft · public repository since 2026-08-11.
+- **[WORKING REFERENCE](https://github.com/JP-Noto/WORKING-REFERENCE)** (execution axis): the reference that works. A corpus is not a document you read but a function you call: a constant earned through gates plus variables, instantiated from the declared state of the work, served (never bulk-loaded) and sealed (every serving decision traceable). Medium is a variable. Rank: hypothesis, stated as such. Initial deposit 2026-08-11 · Public Draft · public repository since 2026-08-11.
 
 Each object of study lives in its own repository; this repository points, it does not duplicate.
 
@@ -52,4 +52,4 @@ Each object of study lives in its own repository; this repository points, it doe
 
 Anteriority: two INPI e-Soleau envelopes timestamp this work: DSO2026026503 (2026-07-21, LIVING REFERENCE) and DSO2026028969 (2026-08-11, MYSTANCE 0.3, WORKING REFERENCE 0.1.6, and the laboratory itself).
 
-*Julien-Pierre NOTO · ONDE AI R&D · founded 2026-07-13 · Status of this repository: draft, private.*
+*Julien-Pierre NOTO · ONDE AI R&D · founded 2026-07-13 · Status of this repository: Public Draft, public since 2026-08-11.*
