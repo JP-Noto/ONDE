@@ -2,6 +2,15 @@
 
 *Format : [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) · versionnage : [SemVer](https://semver.org/lang/fr/). Ce CHANGELOG est la source de vérité des versions de CE dépôt ; chaque corpus a le sien, dans son propre dépôt.*
 
+## [Non publié]
+
+- **ACTA : la publication par séries entre à la discipline** (règle du 2026-08-11) : présentation de
+  série (pourquoi, comment, pièces avec empreintes) puis gates de fond et de forme consignées avant
+  la gate de GO d'auteur ; les protocoles de banc rejoignent la liste des pièces (seuils avant
+  mesure, piste chaînée scellée). [methode/ACTA.md](methode/ACTA.md).
+- Éditorial : l'étiquette de statut est **Public Draft** partout, y compris dans les textes français
+  (le doublon « brouillon public (Public Draft) » disparaît).
+
 ## [0.3.0] — 2026-08-11
 
 Première version du dépôt canonique de présentation du laboratoire **ONDE AI R&D**.
