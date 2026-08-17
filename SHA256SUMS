@@ -1,13 +1,18 @@
+# SHA256SUMS : empreintes de l'état publié du dépôt ONDE, régénérées à chaque publication.
+# Vérification : sha256sum -c SHA256SUMS (les lignes en dièse sont ignorées par l'outil).
+# Les états déposés à l'INPI sont figés par leurs enveloppes e-Soleau, numéros au README :
+# ce manifeste certifie l'état courant du dépôt, pas un dépôt passé.
+# Régénéré le 2026-08-17.
 93e1aa42f3f4c81301d9272072552fda0c0fb86e38f377fc64019707011e97de *./.gitignore
-08b1ca97862920c7862bde33c4e5eecdf0cae9bb3d0e42b7a25eebc548faadc6 *./CHANGELOG.md
+9f561cd6af306b4974206901fa003ee016f1c68038c3091280a771d215548752 *./CHANGELOG.md
 b0b49ff7fc4856a92013a4567e9cc60bdd2d548f57c5957d9bcf5fc67d9c824c *./CITATION.cff
 fd309aa1c289d756d82dd8842dab1b52e06347729444ef2e3c32c6d22ec34eb1 *./CONTRIBUTING.md
 302843fa268eb601f78438d1c3c7d975fa51ae260e9a3685a5d2c335aae966db *./LICENSE.md
-bb981d7863591245483c0a3886f6609f92c2b381642d6d6c2175ca9d7ba9ddb2 *./PRESENTATION.md
-d2590bee30dc9975f7fc8ff88cb10789f5e8676bba549e756fe81d07676d104d *./README.fr.md
+a56b809fc0574f81763961158289558170c0481177b42d1a89d52f7b7435f14e *./PRESENTATION.md
+36fb0269b8ddd514b564af95dc12dd5c5a28a2c1e39f9d767b373f2b404aaa46 *./README.fr.md
 82a7c417c2b9777b53203ba4068f5803fcd43a8c809c59f720ce8f0d5ac49967 *./README.md
 9b3ef12acbbda24fe9ac5450d99561148e3c9a3dc9c643f02f61568b8768f444 *./ROADMAP.md
-ef75e3ed6185b949cca58af845df7263d7a325d61cc3797f1e4dded8d94699b2 *./methode/ACTA.md
+a8834dcce904638c87f075759cd299e581a008fad4914cb5a94984724a551db3 *./methode/ACTA.md
 1b25d1f3f1fe3f7ddf723e03fa0fee2592a20e3cb10acbb61a26a631682945ad *./methode/GUICHET.md
 fd22ca230f1117b4c090b37efbccdf757b59f73497da993ea0c32d996a094fac *./methode/LEXIQUE.md
 80145a97d2096cb81f1cb57d60e23f7812688324119ee653952cb96922c59770 *./methode/PIPELINE.md
