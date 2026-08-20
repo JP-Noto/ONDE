@@ -4,6 +4,11 @@
 
 ## [Non publié]
 
+- **SOUNDNESS entre au catalogue, objet d'étude N° 4** (axe naissance du savoir) : dépôt public
+  depuis le 2026-08-20, rang hypothèse, deux bancs, aucun déploiement. Le compte des dépôts
+  publics de la famille passe à cinq, et la carte des couches avec. La feuille de route inscrit
+  l'objet et son étage à venir.
+
 - **ACTA : la publication par séries entre à la discipline** (règle du 2026-08-11) : présentation de
   série (pourquoi, comment, pièces avec empreintes) puis gates de fond et de forme consignées avant
   la gate de GO d'auteur ; les protocoles de banc rejoignent la liste des pièces (seuils avant

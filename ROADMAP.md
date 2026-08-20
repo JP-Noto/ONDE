@@ -4,7 +4,9 @@
 
 ## La séquence
 
-1. **Publication des corpus au rang auditable** : dépôt public, daté, citable ; protocole complet et critères de réplication inclus. État : **les quatre dépôts sont publics** — LIVING REFERENCE (dépôt initial 2026-07-21, public depuis le 2026-08-06) ; MYSTANCE, WORKING REFERENCE et le portail (publics depuis le 2026-08-11, bascule coordonnée). Antériorité horodatée : enveloppes e-Soleau DSO2026026503, DSO2026028969 et DSO2026029019. Reste la gate auditable elle-même : un dépôt, même public, ne fait franchir aucune gate ([PROTOCOLE-CQM](methode/PROTOCOLE-CQM.md), gate 4).
+1. **Publication des corpus au rang auditable** : dépôt public, daté, citable ; protocole complet et critères de réplication inclus. État : **les cinq dépôts sont publics** — LIVING REFERENCE (dépôt initial 2026-07-21, public depuis
+le 2026-08-06) ; MYSTANCE, WORKING REFERENCE et le portail (publics depuis le 2026-08-11, bascule
+coordonnée) ; SOUNDNESS (dépôt initial 2026-08-17, public depuis le 2026-08-20). Antériorité horodatée : enveloppes e-Soleau DSO2026026503, DSO2026028969 et DSO2026029019. Reste la gate auditable elle-même : un dépôt, même public, ne fait franchir aucune gate ([PROTOCOLE-CQM](methode/PROTOCOLE-CQM.md), gate 4).
 2. **Seuils de mesure fixés avant toute première mesure** : les valeurs `[à fixer]` du protocole CQM se fixent avant la mesure concernée, jamais après.
 3. **Démonstrateur finalisé** : trois environnements (chat nu · agentique de bureau · OS complet) ; kit auto-rapporteur : le rapport de réplication se génère pendant l'usage.
 4. **Plan de recrutement des répliquants écrit avant l'ouverture** : d'où viennent les dix premiers inconnus, par quel canal, avec quel message.

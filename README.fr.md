@@ -59,7 +59,9 @@ registre, études, protocoles, dépôts : a un nom : **[ACTA](methode/ACTA.md)**
 
 ## Objets d'étude
 
-Chaque objet d'étude vit dans son propre dépôt : ce dépôt-ci pointe, il ne duplique pas. **Les quatre dépôts de la famille sont publics** : LIVING REFERENCE depuis le 2026-08-06 ; MYSTANCE, WORKING REFERENCE et ce portail depuis le 2026-08-11 (chaque CHANGELOG fait foi).
+Chaque objet d'étude vit dans son propre dépôt : ce dépôt-ci pointe, il ne duplique pas. **Les cinq dépôts de la famille sont publics** : LIVING REFERENCE depuis le 2026-08-06 ; MYSTANCE,
+WORKING REFERENCE et ce portail depuis le 2026-08-11 ; SOUNDNESS depuis le 2026-08-20 (chaque
+CHANGELOG fait foi).
 
 **N° 1 — [LIVING REFERENCE](https://github.com/JP-Noto/LIVING-REFERENCE)** (axe autorité) : un système de références vivantes pour le travail assisté par IA : de la proposition à la référence par validation, double valeur, tamis de trace, validation partielle par facettes, glissement, tests de dérive D1–D5. Sept fiches : le socle fonde, les mécanismes construisent, la garde vérifie. **Dépôt initial : 2026-07-21** · statut : Public Draft · le CHANGELOG du corpus fait foi pour les versions.
 
@@ -73,10 +75,20 @@ l'instanciation **décidée** par la couche de référence selon l'état déclar
 variable. C'est la généralisation exécutable de LIVING REFERENCE, et la réponse structurelle à l'axe
 durabilité du problème. **Dépôt initial : 2026-08-11** · statut : Public Draft ·
 rang : **hypothèse** (H(T) au registre), dit tel quel · le CHANGELOG du corpus fait foi pour les
-versions. Domicile canonique : <https://github.com/JP-Noto/WORKING-REFERENCE>
-(dépôt public depuis le 2026-08-11).
+versions. Domicile canonique : <https://github.com/JP-Noto/WORKING-REFERENCE> (dépôt public depuis le
+2026-08-11).
 
-**Les quatre couches** (aucune redondance entre elles) :
+**N° 4 — [SOUNDNESS](https://github.com/JP-Noto/SOUNDNESS)** (axe naissance du savoir) : la
+naissance du savoir extrait de documents : la fiche n'est jamais l'original, elle renvoie à sa
+pièce, seule opposable ; le template naît minimal, le plus petit schéma utile, et grandit par actes
+de validation ; quatre statuts d'extraction (née conforme, extraite, curée, validée) aux transitions
+fermées ; la part humaine décisive, pas volumineuse. Né de la pratique, filiation LOCUS déclarée,
+deux bancs adverses passés le jour de sa naissance, verdicts négatifs publiés. **Dépôt initial :
+2026-08-17** · statut : Public Draft · rang : **hypothèse**, dit tel quel · le CHANGELOG du corpus
+fait foi pour les versions. Domicile canonique : <https://github.com/JP-Noto/SOUNDNESS> (dépôt
+public depuis le 2026-08-20).
+
+**Les cinq couches** (aucune redondance entre elles) :
 
 | Couche | Gouverne |
 |---|---|
@@ -84,6 +96,7 @@ versions. Domicile canonique : <https://github.com/JP-Noto/WORKING-REFERENCE>
 | LIVING REFERENCE | le statut du savoir : ce qui est validé, ce qui fait canon |
 | WORKING REFERENCE | le service de la référence : ce qui monte à l'appel, servi et scellé |
 | MYSTANCE | la place de l'humain : la relation paramétrée, la souveraineté |
+| SOUNDNESS | la naissance du savoir extrait de documents : la fiche fondée sur la pièce |
 
 ## Antériorité
 
