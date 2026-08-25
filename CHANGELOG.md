@@ -4,6 +4,13 @@
 
 ## [Non publié]
 
+- **Résultats négatifs : la promesse d'exhaustivité est retirée, et le tri se déclare.** Le labo
+  écrivait « résultats négatifs publiés » dans neuf pièces de ce dépôt ; sa pratique est d'enregistrer
+  intégralement et de publier pour partie. Relevé du 2026-08-25, les neuf reprises le jour même, la
+  source ACTA alignée : consignés au même titre que ce qui réussit, listés, et le récit n'est écrit que
+  pour ce qui a changé une décision, jamais selon ce qui flatte. C'est le premier résultat négatif du
+  labo sur sa propre doctrine, et il est publié ici. Dépôt guichet #046.
+
 - **SOUNDNESS entre au catalogue, objet d'étude N° 4** (axe naissance du savoir) : dépôt public
   depuis le 2026-08-20, rang hypothèse, deux bancs, aucun déploiement. Le compte des dépôts
   publics de la famille passe à cinq, et la carte des couches avec. La feuille de route inscrit
