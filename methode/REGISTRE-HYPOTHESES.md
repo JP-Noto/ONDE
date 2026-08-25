@@ -65,7 +65,7 @@ Garde permanente : *crédit ≠ preuve*, et adoption par un utilisateur unique e
 
 ## Dettes ouvertes déclarées
 
-*Déclarées comme dettes, pas masquées comme absences, conformément à « résultats négatifs publiés comme les positifs ».*
+*Déclarées comme dettes, pas masquées comme absences, conformément à « résultats négatifs consignés comme les positifs, et publiés pour partie ».*
 
 | Dette | Nature | Se referme quand |
 |---|---|---|

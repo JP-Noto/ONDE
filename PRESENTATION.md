@@ -6,7 +6,7 @@
 
 ## Résumé
 
-ONDE AI R&D est un laboratoire de R&D : recherche appliquée *et* développement : il produit des connaissances éprouvées et les livre en mécanismes, tests et kits. Il étudie comment travailler durablement avec une IA : un travail qui reste sous autorité humaine et dont la qualité se mesure. « Travail » couvre tout workflow humain–IA (créer, décider, organiser, apprendre) pas seulement la fabrication de livrables. Méthode : problématiques vécues → hypothèses réfutables → pipeline à gates. Un praticien-chercheur, N=1, déclaré. Les résultats négatifs sont publiés. Rang actuel des travaux : hypothèses et preuves de concept. L'un d'eux (la double valeur) est un mécanisme central de l'architecture d'un OS tiers.
+ONDE AI R&D est un laboratoire de R&D : recherche appliquée *et* développement : il produit des connaissances éprouvées et les livre en mécanismes, tests et kits. Il étudie comment travailler durablement avec une IA : un travail qui reste sous autorité humaine et dont la qualité se mesure. « Travail » couvre tout workflow humain–IA (créer, décider, organiser, apprendre) pas seulement la fabrication de livrables. Méthode : problématiques vécues → hypothèses réfutables → pipeline à gates. Un praticien-chercheur, N=1, déclaré. Les résultats négatifs sont consignés, et publiés pour partie. Rang actuel des travaux : hypothèses et preuves de concept. L'un d'eux (la double valeur) est un mécanisme central de l'architecture d'un OS tiers.
 
 ## Posture
 

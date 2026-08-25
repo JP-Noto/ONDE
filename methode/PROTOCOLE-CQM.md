@@ -44,7 +44,7 @@ Trois propriétés non négociables :
 - [ ] **Piste complète** : statuts affichés partout, validations consignées (qui, quoi, périmètre, écarté et pourquoi), rejets avec raisons.
 - [ ] **Chaque revendication porte son étage** : grep de contrôle : « démontré » sans chiffre = blocage ; vocabulaire au-dessus du rang = blocage.
 - [ ] **D1–D5 passés sur le corpus lui-même**, résultat consigné.
-- [ ] **Les résultats négatifs** du banc et du terrain sont inclus dans ce qui est publié.
+- [ ] **Les résultats négatifs** du banc et du terrain sont consignés au registre et listés ; ceux qui sont publiés le sont avec la borne du tri déclarée : le récit n'est écrit que pour ce qui a changé une décision, jamais selon ce qui flatte.
 - [ ] CHANGELOG à jour, licence et attribution posées, filiation (LINEAGE) à jour.
 - [ ] Zéro adjectif comme critère dans les textes normatifs : grep de contrôle.
 - [ ] **Revue éthique n° 1 tenue** (première exposition de tiers en aval), consignée.
@@ -68,7 +68,7 @@ Trois propriétés non négociables :
 - [ ] Le mécanisme a **survécu à ≥ 1 changement de génération de modèle sans révision** : définition opérationnelle de « stable ». **Ce qui compte comme génération** (révisable) : le modèle en production pour ce mécanisme **change de famille** OU **franchit un saut de version majeure annoncé par le fournisseur** (ex. 4.x → 5.0), journalisé à sa date. **Clause de jugement** : un modèle de même version dont le comportement change de façon démontrée au banc peut être déclaré événement de génération, avec raison journalisée : la règle propose, l'humain décide.
 - [ ] **Doctrine ≠ permanent** : le rang porte une **fenêtre de fraîcheur déclarée** et un **déclencheur de révision** à la prochaine génération majeure (canon glissant). À l'échéance non re-testée, le rang **retombe à « répliqué »** (fraîcheur périmée), publié comme tel.
 - [ ] Chaque génération majeure supplémentaire survécue **allonge l'horizon déclaré** (sévérité accumulée — Mayo).
-- [ ] Les **résultats négatifs** rencontrés en route sont publiés avec les positifs.
+- [ ] Les **résultats négatifs** rencontrés en route sont consignés avec les positifs, listés, et publiés pour partie selon la même borne.
 - [ ] **Revue contradictoire** : au moins un examinateur qui n'est pas l'auteur signe le passage (quatre yeux).
 
 ## Boucles et péremption

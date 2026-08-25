@@ -22,7 +22,7 @@ coordonnée) ; SOUNDNESS (dépôt initial 2026-08-17, public depuis le 2026-08-2
 
 ## Ce que cette feuille de route ne promet pas
 
-Pas de date. Pas d'efficacité démontrée avant les chiffres. Pas de certification avant la réplication par des inconnus. Un labo qui ne peut pas échouer ne mesure rien : les résultats négatifs de ce parcours seront publiés au même titre que les positifs.
+Pas de date. Pas d'efficacité démontrée avant les chiffres. Pas de certification avant la réplication par des inconnus. Un labo qui ne peut pas échouer ne mesure rien : les résultats négatifs de ce parcours seront consignés au même titre que les positifs, et publiés pour partie, le tri déclaré.
 
 ---
 
