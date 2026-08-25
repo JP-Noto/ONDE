@@ -26,7 +26,7 @@ AI-assisted work rarely fails for lack of model power. It fails on three points 
 reflection → hypothesis → test bench → researcher field → auditable → real users → replicated → doctrine
 ```
 
-A single practitioner-researcher, N=1, declared. The apparatus holding this method (intake desk, register of hypotheses, studies, protocols, deposits) is named **ACTA** ([methode/ACTA.md](methode/ACTA.md), French). Gated pipeline with pre-written, mechanically checkable criteria (CQM) at every gate. Negative results are recorded like the rest, and published in part. Rank is earned through use, never self-awarded.
+A single practitioner-researcher, N=1, declared. The apparatus holding this method (intake desk, register of hypotheses, studies, protocols, deposits) is named **ACTA** ([methode/ACTA.md](methode/ACTA.md), French). Gated pipeline with pre-written, mechanically checkable criteria (CQM) at every gate. What works and what doesn't are both recorded, and published in part. Rank is earned through use, never self-awarded.
 
 ## Objects of study
 

@@ -80,7 +80,7 @@ complète : gate déclarée avant toute mise en public ([CHANGELOG](../CHANGELOG
 - **Récence ≠ qualité** : la ressemblance aux N derniers n'est pas un critère de traversée ; statut + périmètre + contraintes + CQM le sont.
 - **Notes = signal** : les évaluations de la communauté déclenchent un examen ; elles ne sont jamais la métrique.
 - **« Démontré » exige un chiffre** : plafond de vocabulaire : « preuve de concept » tant qu'aucune mesure n'existe.
-- **Résultats négatifs consignés, et publiés pour partie** : ce qui échoue est consigné au même titre que ce qui réussit. Ce qui est publié est choisi — jamais selon ce qui flatte, et le tri se déclare : tout est consigné et listé, le récit n'est écrit que pour ce qui a changé une décision.
+- **Ce qui marche et ce qui ne marche pas, notés pareil, publiés pour partie** : on ne montre pas que les succès. Ce qui est publié est choisi, jamais selon ce qui flatte, et on dit comment on choisit : tout résultat négatif est consigné et listé, le récit n'est écrit que pour ce qui a changé une décision.
 
 ---
 

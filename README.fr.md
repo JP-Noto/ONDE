@@ -16,7 +16,7 @@ ONDE AI R&D est un laboratoire de recherche appliquée *et* de développement : 
 
 Il étudie comment travailler durablement avec une IA : un travail qui reste sous autorité humaine et dont la qualité se mesure. « Travail » couvre tout workflow humain–IA (créer, décider, organiser, apprendre) pas seulement la fabrication de livrables.
 
-Méthode : problématiques vécues → hypothèses réfutables → pipeline à gates. Un praticien-chercheur, N=1, déclaré. Les résultats négatifs sont consignés, et publiés pour partie.
+Méthode : problématiques vécues → hypothèses réfutables → pipeline à gates. Un praticien-chercheur, N=1, déclaré. Ce qui ne marche pas est noté comme le reste, et publié pour partie.
 
 ## Le problème
 
@@ -110,7 +110,7 @@ WORKING REFERENCE 0.1.6, et le laboratoire lui-même, fond et vitrine).
 - **Récence ≠ qualité** : la ressemblance aux N derniers n'est pas un critère de traversée.
 - **Notes = signal** : les évaluations de la communauté déclenchent un examen ; elles ne sont jamais la métrique.
 - **« Démontré » exige un chiffre** : plafond de vocabulaire : « preuve de concept » tant qu'aucune mesure n'existe.
-- **Résultats négatifs consignés, et publiés pour partie** : ce qui échoue est consigné au même titre que ce qui réussit. Ce qui est publié est choisi — jamais selon ce qui flatte, et le tri se déclare.
+- **Ce qui marche et ce qui ne marche pas, notés pareil, publiés pour partie** : on ne montre pas que les succès. Ce qui est publié est choisi, jamais selon ce qui flatte, et on dit comment on choisit.
 
 ## Statut de ce dépôt
 
