@@ -34,8 +34,10 @@ A single practitioner-researcher, N=1, declared. The apparatus holding this meth
 - **[MYSTANCE](https://github.com/JP-Noto/MYSTANCE)** (human axis) : the human layer of AI systems: tune the relationship rather than dominate it. Four named assistance levels; proposed invariant: *the level modulates how much the AI proposes, never who decides.* Initial deposit 2026-08-02, updated on 2026-08-11 · Public Draft · public repository since 2026-08-11.
 - **[WORKING REFERENCE](https://github.com/JP-Noto/WORKING-REFERENCE)** (execution axis): the reference that works. A corpus is not a document you read but a function you call: a constant earned through gates plus variables, instantiated from the declared state of the work, served (never bulk-loaded) and sealed (every serving decision traceable). Medium is a variable. Rank: hypothesis, stated as such. Initial deposit 2026-08-11 · Public Draft · public repository since 2026-08-11.
 - **[SOUNDNESS](https://github.com/JP-Noto/SOUNDNESS)** (knowledge-birth axis): the birth of document-extracted knowledge: the record is never the original, it points to its source piece, the only authoritative one; the smallest useful schema grows by validation acts; four extraction statuses with closed transitions; the human share decisive, not voluminous. Rank: hypothesis, stated as such. Initial deposit 2026-08-17 · Public Draft · public repository since 2026-08-20.
+- **[VIGILANCE](https://github.com/JP-Noto/VIGILANCE)** (attention axis): the economy of human attention in AI systems: control by exception — explicit rules of "normal", total verification by the system, the human on exceptions only with the authority to decide. Rank: hypothesis, stated as such. Initial deposit: 2026-09-05 · Public Draft.
 
-Each object of study lives in its own repository; this repository points, it does not duplicate.
+Each object of study lives in its own repository; this repository points, it does not duplicate. The corpora's doctrine is independent of any host OS and any model, present or future; an independence by construction, the corpora being text; the operational proof is on the
+bench.
 
 ## Reading map (French)
 

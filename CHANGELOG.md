@@ -4,6 +4,11 @@
 
 ## [Non publié]
 
+- **Objet d'étude n° 5 : VIGILANCE** entre à la vitrine (axe attention : l'économie de
+  l'attention humaine, le contrôle par exception), la carte passe à six couches, et la phrase
+  d'indépendance (de tout OS hôte et de tout modèle, présents ou futurs) est posée sur les deux
+  README, l'épreuve en cours dite telle quelle.
+
 - **Résultats négatifs : la promesse d'exhaustivité est retirée, et le tri se déclare.** Le labo
   écrivait « résultats négatifs publiés » dans neuf pièces de ce dépôt ; sa pratique est d'enregistrer
   intégralement et de publier pour partie. Relevé du 2026-08-25, les neuf reprises le jour même, la

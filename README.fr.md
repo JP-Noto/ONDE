@@ -88,7 +88,16 @@ deux bancs adverses passés le jour de sa naissance, verdicts négatifs publiés
 fait foi pour les versions. Domicile canonique : <https://github.com/JP-Noto/SOUNDNESS> (dépôt
 public depuis le 2026-08-20).
 
-**Les cinq couches** (aucune redondance entre elles) :
+**N° 5 — [VIGILANCE](https://github.com/JP-Noto/VIGILANCE)** (axe attention) : l'économie de
+l'attention humaine dans les systèmes d'IA : le contrôle par exception — des règles explicites du
+« normal », la vérification totale par le système, l'humain sur les seules exceptions avec
+l'autorité de trancher, chaque verdict pouvant enrichir les règles. Sept familles de règles
+(V1-V7, du référentiel de contrôle au poste de sortie), neuf fiches, le protocole du drill
+pré-enregistré avant toute mesure, un profil d'application déclaré. **Dépôt initial : 2026-09-05** · statut : Public Draft · rang : **hypothèse**, dit tel quel · le
+CHANGELOG du corpus fait foi pour les versions. Domicile canonique :
+<https://github.com/JP-Noto/VIGILANCE>.
+
+**Les six couches** (aucune redondance entre elles) :
 
 | Couche | Gouverne |
 |---|---|
@@ -97,6 +106,11 @@ public depuis le 2026-08-20).
 | WORKING REFERENCE | le service de la référence : ce qui monte à l'appel, servi et scellé |
 | MYSTANCE | la place de l'humain : la relation paramétrée, la souveraineté |
 | SOUNDNESS | la naissance du savoir extrait de documents : la fiche fondée sur la pièce |
+| VIGILANCE | l'économie de l'attention humaine : le contrôle par exception, l'humain sur les seules exceptions |
+
+La doctrine des corpus est indépendante de tout OS hôte et de tout modèle, présents ou
+futurs ; une indépendance par construction, les corpus étant du texte ; l'épreuve opérationnelle est
+au banc.
 
 ## Antériorité
 
