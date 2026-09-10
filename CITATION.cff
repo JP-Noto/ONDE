@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Si vous citez ce travail, merci d'utiliser les métadonnées ci-dessous. / If you cite this work, please use the metadata below."
+title: "ONDE AI R&D : laboratoire de recherche appliquée et développement en travail humain–IA"
+type: dataset
+authors:
+  - family-names: "Noto"
+    given-names: "Julien-Pierre"
+date-released: "2026-09-10"
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/JP-Noto/ONDE"
+abstract: >-
+  La méthode du laboratoire ONDE AI R&D, dans ses grandes lignes : le
+  problème étudié (durabilité, autorité, mesure du travail humain–IA),
+  le pipeline de recherche à gates, la vue des rangs des hypothèses.
+  Rang des travaux présentés : hypothèses, preuves de concept, et une
+  doctrine.
+  Les documents en français font foi.
+keywords:
+  - human-AI collaboration
+  - AI-assisted work
+  - research methodology
+  - falsifiability
+  - practitioner-researcher
+  - living reference
